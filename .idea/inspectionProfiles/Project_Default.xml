@@ -1,0 +1,250 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="-premailer-cellpadding" />
+            <item index="1" class="java.lang.String" itemvalue="-premailer-cellspacing" />
+            <item index="2" class="java.lang.String" itemvalue="-premailer-width" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="121" name="PHP" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="44">
+            <item index="0" class="java.lang.String" itemvalue="x-data" />
+            <item index="1" class="java.lang.String" itemvalue="x-description" />
+            <item index="2" class="java.lang.String" itemvalue="x-show" />
+            <item index="3" class="java.lang.String" itemvalue="x-transition:enter-start" />
+            <item index="4" class="java.lang.String" itemvalue="x-transition:enter" />
+            <item index="5" class="java.lang.String" itemvalue="x-transition:enter-end" />
+            <item index="6" class="java.lang.String" itemvalue="x-transition:leave" />
+            <item index="7" class="java.lang.String" itemvalue="x-transition:leave-start" />
+            <item index="8" class="java.lang.String" itemvalue="x-transition:leave-end" />
+            <item index="9" class="java.lang.String" itemvalue="@keydown.window.escape" />
+            <item index="10" class="java.lang.String" itemvalue="x-on:click" />
+            <item index="11" class="java.lang.String" itemvalue=":class" />
+            <item index="12" class="java.lang.String" itemvalue="@mouseover" />
+            <item index="13" class="java.lang.String" itemvalue="@mouseover.away" />
+            <item index="14" class="java.lang.String" itemvalue="@mouseleave" />
+            <item index="15" class="java.lang.String" itemvalue="@click" />
+            <item index="16" class="java.lang.String" itemvalue="@click.away" />
+            <item index="17" class="java.lang.String" itemvalue="@keydown.escape" />
+            <item index="18" class="java.lang.String" itemvalue="x-cloak" />
+            <item index="19" class="java.lang.String" itemvalue="@change" />
+            <item index="20" class="java.lang.String" itemvalue="x-bind:aria-expanded" />
+            <item index="21" class="java.lang.String" itemvalue="x-state-description" />
+            <item index="22" class="java.lang.String" itemvalue="x-state:off" />
+            <item index="23" class="java.lang.String" itemvalue="x-state:on" />
+            <item index="24" class="java.lang.String" itemvalue="x-model" />
+            <item index="25" class="java.lang.String" itemvalue=":aria-selected" />
+            <item index="26" class="java.lang.String" itemvalue=":tabindex" />
+            <item index="27" class="java.lang.String" itemvalue=";" />
+            <item index="28" class="java.lang.String" itemvalue="x-ref" />
+            <item index="29" class="java.lang.String" itemvalue=":aria-expanded" />
+            <item index="30" class="java.lang.String" itemvalue="@mousedown" />
+            <item index="31" class="java.lang.String" itemvalue="@close-popover-group.window" />
+            <item index="32" class="java.lang.String" itemvalue="x-init" />
+            <item index="33" class="java.lang.String" itemvalue="x-text" />
+            <item index="34" class="java.lang.String" itemvalue="::style" />
+            <item index="35" class="java.lang.String" itemvalue=":style" />
+            <item index="36" class="java.lang.String" itemvalue="x-bind:style" />
+            <item index="37" class="java.lang.String" itemvalue="::class" />
+            <item index="38" class="java.lang.String" itemvalue="cellpadding" />
+            <item index="39" class="java.lang.String" itemvalue="role" />
+            <item index="40" class="java.lang.String" itemvalue="cellspacing" />
+            <item index="41" class="java.lang.String" itemvalue="data-auth" />
+            <item index="42" class="java.lang.String" itemvalue="data-linkindex" />
+            <item index="43" class="java.lang.String" itemvalue="data-imagetype" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="155">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="x-notifications.simple" />
+            <item index="7" class="java.lang.String" itemvalue="x-icons.solid-check" />
+            <item index="8" class="java.lang.String" itemvalue="x-buttons.secondary" />
+            <item index="9" class="java.lang.String" itemvalue="x-icons-solid-minus" />
+            <item index="10" class="java.lang.String" itemvalue="x-icons.solid-minus" />
+            <item index="11" class="java.lang.String" itemvalue="x-icons.solid-plus-sm" />
+            <item index="12" class="java.lang.String" itemvalue="x-icons.solid-x" />
+            <item index="13" class="java.lang.String" itemvalue="x-icons.solid-trash" />
+            <item index="14" class="java.lang.String" itemvalue="x-session-status" />
+            <item index="15" class="java.lang.String" itemvalue="x-alerts.success" />
+            <item index="16" class="java.lang.String" itemvalue="x-errors.validation" />
+            <item index="17" class="java.lang.String" itemvalue="x-logos.application-logo" />
+            <item index="18" class="java.lang.String" itemvalue="x-icons.outline-plus-sm" />
+            <item index="19" class="java.lang.String" itemvalue="x-partials.table-options" />
+            <item index="20" class="java.lang.String" itemvalue="x-icons.dots-vertical" />
+            <item index="21" class="java.lang.String" itemvalue="x-icons.solid-pencil-alt" />
+            <item index="22" class="java.lang.String" itemvalue="x-links.navigation-link" />
+            <item index="23" class="java.lang.String" itemvalue="x-links.profile-dropdown-link" />
+            <item index="24" class="java.lang.String" itemvalue="x-links.sidebar-profile-link" />
+            <item index="25" class="java.lang.String" itemvalue="x-icons.outline-home" />
+            <item index="26" class="java.lang.String" itemvalue="x-icons.outline-shopping-cart" />
+            <item index="27" class="java.lang.String" itemvalue="x-icons.solid-save" />
+            <item index="28" class="java.lang.String" itemvalue="x-buttons.primary" />
+            <item index="29" class="java.lang.String" itemvalue="x-alerts.attention" />
+            <item index="30" class="java.lang.String" itemvalue="x-forms.user-address-edit-form" />
+            <item index="31" class="java.lang.String" itemvalue="x-forms.create-delivery-address-form" />
+            <item index="32" class="java.lang.String" itemvalue="x-forms.create-billing-address-form" />
+            <item index="33" class="java.lang.String" itemvalue="x-icons.outline-plus-circle" />
+            <item index="34" class="java.lang.String" itemvalue="x-icons-outline-plus-cricle" />
+            <item index="35" class="java.lang.String" itemvalue="x-icons.outline-plus-cricle" />
+            <item index="36" class="java.lang.String" itemvalue="x-buttons.circular" />
+            <item index="37" class="java.lang.String" itemvalue="x-links.sidebar-link" />
+            <item index="38" class="java.lang.String" itemvalue="x-icons.outline-chart-bar" />
+            <item index="39" class="java.lang.String" itemvalue="x-icons.outline-heart" />
+            <item index="40" class="java.lang.String" itemvalue="x-icons.outline-bell" />
+            <item index="41" class="java.lang.String" itemvalue="x-icons.cursor" />
+            <item index="42" class="java.lang.String" itemvalue="x-icons.target" />
+            <item index="43" class="java.lang.String" itemvalue="x-credit-card-installment-chart" />
+            <item index="44" class="java.lang.String" itemvalue="x-icons.solid-star" />
+            <item index="45" class="java.lang.String" itemvalue="x-icons-solid-chevron-right" />
+            <item index="46" class="java.lang.String" itemvalue="x-icons.solid-chevron-right" />
+            <item index="47" class="java.lang.String" itemvalue="x-icons.solid-check-circle" />
+            <item index="48" class="java.lang.String" itemvalue="x-icons.solid-minus-sm" />
+            <item index="49" class="java.lang.String" itemvalue="x-buttons.secondary-xs" />
+            <item index="50" class="java.lang.String" itemvalue="x-order-detail-state" />
+            <item index="51" class="java.lang.String" itemvalue="x-input" />
+            <item index="52" class="java.lang.String" itemvalue="x-icons.solid-question-mark-circle" />
+            <item index="53" class="java.lang.String" itemvalue="x-icons.outline-shopping-bag" />
+            <item index="54" class="java.lang.String" itemvalue="x-icons.outline-logout" />
+            <item index="55" class="java.lang.String" itemvalue="x-order-detail.order-detail" />
+            <item index="56" class="java.lang.String" itemvalue="x-partials.payment-step3" />
+            <item index="57" class="java.lang.String" itemvalue="x-cards.order-summary" />
+            <item index="58" class="java.lang.String" itemvalue="x-partials.order-summary-card" />
+            <item index="59" class="java.lang.String" itemvalue="x-partials.my-payments-options-dropdown" />
+            <item index="60" class="java.lang.String" itemvalue="x-icons.outline-check-circle" />
+            <item index="61" class="java.lang.String" itemvalue="x-modals.create-payment-modal" />
+            <item index="62" class="java.lang.String" itemvalue="x-modals.create-payment" />
+            <item index="63" class="java.lang.String" itemvalue="x-icons.solid-lock-closed" />
+            <item index="64" class="java.lang.String" itemvalue="x-buttons.white-md" />
+            <item index="65" class="java.lang.String" itemvalue="x-buttons.white-xs" />
+            <item index="66" class="java.lang.String" itemvalue="x-buttons.primary-md" />
+            <item index="67" class="java.lang.String" itemvalue="x-buttons.secondary-md" />
+            <item index="68" class="java.lang.String" itemvalue="x-buttons.circular-primary-md" />
+            <item index="69" class="java.lang.String" itemvalue="x-buttons.circular-secondary-md" />
+            <item index="70" class="java.lang.String" itemvalue="x-icons.outline-eye-off" />
+            <item index="71" class="java.lang.String" itemvalue="x-icons.solid-chevron-down" />
+            <item index="72" class="java.lang.String" itemvalue="x-links.mobile-navigation-link" />
+            <item index="73" class="java.lang.String" itemvalue="x-flyout-menu-simple" />
+            <item index="74" class="java.lang.String" itemvalue="x-flyout-menu-simple-link" />
+            <item index="75" class="java.lang.String" itemvalue="x-slot" />
+            <item index="76" class="java.lang.String" itemvalue="x-navigation.mobile-navigation" />
+            <item index="77" class="java.lang.String" itemvalue="x-navigation.profile-dropdown" />
+            <item index="78" class="java.lang.String" itemvalue="x-table-options" />
+            <item index="79" class="java.lang.String" itemvalue="x-order-summary-card" />
+            <item index="80" class="java.lang.String" itemvalue="x-payment-step3" />
+            <item index="81" class="java.lang.String" itemvalue="x-order-detail" />
+            <item index="82" class="java.lang.String" itemvalue="x-my-payments-options-dropdown" />
+            <item index="83" class="java.lang.String" itemvalue="x-guest-layout" />
+            <item index="84" class="java.lang.String" itemvalue="x-links.dropdown-link" />
+            <item index="85" class="java.lang.String" itemvalue="x-admin-sidebar" />
+            <item index="86" class="java.lang.String" itemvalue="x-datatable-users" />
+            <item index="87" class="java.lang.String" itemvalue="x-datatable-usage-areas" />
+            <item index="88" class="java.lang.String" itemvalue="x-product-detail-tavbs" />
+            <item index="89" class="java.lang.String" itemvalue="x-product-detail-tabs" />
+            <item index="90" class="java.lang.String" itemvalue="x-product-images" />
+            <item index="91" class="java.lang.String" itemvalue="x-profile-account-cards" />
+            <item index="92" class="java.lang.String" itemvalue="x-datatable-order-details" />
+            <item index="93" class="java.lang.String" itemvalue="x-datatable-imsects" />
+            <item index="94" class="java.lang.String" itemvalue="x-payment-form" />
+            <item index="95" class="java.lang.String" itemvalue="x-datatable-products" />
+            <item index="96" class="java.lang.String" itemvalue="x-datatable-insects" />
+            <item index="97" class="java.lang.String" itemvalue="x-datatable-discounts" />
+            <item index="98" class="java.lang.String" itemvalue="x-datatable-pack-types" />
+            <item index="99" class="java.lang.String" itemvalue="x-datatable-brands" />
+            <item index="100" class="java.lang.String" itemvalue="x-links.admin-sidebar-link" />
+            <item index="101" class="java.lang.String" itemvalue="x-icons.outline-search" />
+            <item index="102" class="java.lang.String" itemvalue="x-navigation.navigation-profile-dropdown" />
+            <item index="103" class="java.lang.String" itemvalue="x-navigation.navigation-mobile" />
+            <item index="104" class="java.lang.String" itemvalue="x-navigation.profile" />
+            <item index="105" class="java.lang.String" itemvalue="x-navigation.navigation-profile" />
+            <item index="106" class="java.lang.String" itemvalue="x-icons.outline-user-circle" />
+            <item index="107" class="java.lang.String" itemvalue="x-navigation.navigation-profile-and-shopping-card" />
+            <item index="108" class="java.lang.String" itemvalue="x-navigation.navigation-account-profile-shopping-card" />
+            <item index="109" class="java.lang.String" itemvalue="x-navigation-guest-menu" />
+            <item index="110" class="java.lang.String" itemvalue="x-navigation.navigation-guest-menu" />
+            <item index="111" class="java.lang.String" itemvalue="x-navigation.navigation-auth-menu" />
+            <item index="112" class="java.lang.String" itemvalue="x-navigation.navigation-account-container" />
+            <item index="113" class="java.lang.String" itemvalue="x-navigation-auth-menu" />
+            <item index="114" class="java.lang.String" itemvalue="x-navigation-account-container" />
+            <item index="115" class="java.lang.String" itemvalue="x-navigation-mobile" />
+            <item index="116" class="java.lang.String" itemvalue="x-nav.nav-mobile" />
+            <item index="117" class="java.lang.String" itemvalue="x-buttons.circular-md" />
+            <item index="118" class="java.lang.String" itemvalue="x-buttons.circular-white-md" />
+            <item index="119" class="java.lang.String" itemvalue="x-buttons.circular-indigo-xs" />
+            <item index="120" class="java.lang.String" itemvalue="x-buttons.circular-white-xs" />
+            <item index="121" class="java.lang.String" itemvalue="x-buttons.secondary-sm" />
+            <item index="122" class="java.lang.String" itemvalue="x-navigation-mobile-link" />
+            <item index="123" class="java.lang.String" itemvalue="x-navigation.navigation-mobile-link" />
+            <item index="124" class="java.lang.String" itemvalue="x-icons.outline-information-circle" />
+            <item index="125" class="java.lang.String" itemvalue="x-icons.solid-exclamation-circle" />
+            <item index="126" class="java.lang.String" itemvalue="x-buttons.circular-white-sm" />
+            <item index="127" class="java.lang.String" itemvalue="x-alerts.error" />
+            <item index="128" class="java.lang.String" itemvalue="x-icons.solid-x-circle" />
+            <item index="129" class="java.lang.String" itemvalue="x-icons.solid-information-circle" />
+            <item index="130" class="java.lang.String" itemvalue="x-icons.outline-menu" />
+            <item index="131" class="java.lang.String" itemvalue="x-icons.outline-x" />
+            <item index="132" class="java.lang.String" itemvalue="x-reset-password-card" />
+            <item index="133" class="java.lang.String" itemvalue="x-login-card" />
+            <item index="134" class="java.lang.String" itemvalue="x-label" />
+            <item index="135" class="java.lang.String" itemvalue="div" />
+            <item index="136" class="java.lang.String" itemvalue="x-datatable-cargo-companies" />
+            <item index="137" class="java.lang.String" itemvalue="x-datatable-freight-rates" />
+            <item index="138" class="java.lang.String" itemvalue="x-.table-options" />
+            <item index="139" class="java.lang.String" itemvalue="x-icons.outline-was-delivered" />
+            <item index="140" class="java.lang.String" itemvalue="x-icons-siparislerim" />
+            <item index="141" class="java.lang.String" itemvalue="x-icons.siparislerim" />
+            <item index="142" class="java.lang.String" itemvalue="x-icons.kullanici-bilgilerim" />
+            <item index="143" class="java.lang.String" itemvalue="x-icons.logout" />
+            <item index="144" class="java.lang.String" itemvalue="x-icons.sepetim" />
+            <item index="145" class="java.lang.String" itemvalue="x-icons.sepet" />
+            <item index="146" class="java.lang.String" itemvalue="x-datatable-bank-accounts" />
+            <item index="147" class="java.lang.String" itemvalue="x-icons.twitter" />
+            <item index="148" class="java.lang.String" itemvalue="x-icons.instagram" />
+            <item index="149" class="java.lang.String" itemvalue="x-logos.application-logo-secondary" />
+            <item index="150" class="java.lang.String" itemvalue="p" />
+            <item index="151" class="java.lang.String" itemvalue="x-auth-card" />
+            <item index="152" class="java.lang.String" itemvalue="x-datatable-blogs" />
+            <item index="153" class="java.lang.String" itemvalue="x-datatable-faqs" />
+            <item index="154" class="java.lang.String" itemvalue="x-home-blog-section" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="MissingService" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="EXTENSIONS" value="php,js,css,inc" />
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
