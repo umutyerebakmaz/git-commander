@@ -53,7 +53,14 @@ git branch -m main
 git push -f origin main
 ```
 
-
+## how to delete all local git branches?
+```
+git branch -D `git branch --merged | grep -v \* | xargs`
+```
+or 
+```
+git branch --merged | grep -v \* | xargs git branch -D 
+```
 ## License
 
 The MIT License (MIT). Please see [License File](https://github.com/umutyerebakmaz/git-commander/blob/main/LICENCE) for more information.
