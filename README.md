@@ -61,6 +61,12 @@ or
 ```
 git branch --merged | grep -v \* | xargs git branch -D 
 ```
+
+## how to delete given local git branch?
+
+```
+git branch -d local_branch_name
+```
 ## License
 
 The MIT License (MIT). Please see [License File](https://github.com/umutyerebakmaz/git-commander/blob/main/LICENCE) for more information.
