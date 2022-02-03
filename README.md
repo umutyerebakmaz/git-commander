@@ -1,5 +1,5 @@
-
-
+# Git Commander dev notes
+Welcome to the repo where I keep notes on Git. I'm archiving git commands here to help you progress from zero to pro. I hope that will be useful.
 # Quick Setup
 
 ## …or create a new repository on the command line
