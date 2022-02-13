@@ -21,7 +21,7 @@ git branch -M main
 git push -u origin main
 ```
 
-## how to delete all commit history in github?
+## How to delete all commit history in github?
 
 1. Checkout
 ```
@@ -53,7 +53,7 @@ git branch -m main
 git push -f origin main
 ```
 
-## how to delete all local git branches?
+## How to delete all local git branches?
 ```
 git branch -D `git branch --merged | grep -v \* | xargs`
 ```
@@ -62,10 +62,16 @@ or
 git branch --merged | grep -v \* | xargs git branch -D 
 ```
 
-## how to delete given local git branch?
+## How to delete given local git branch?
 
 ```
 git branch -d local_branch_name
+```
+
+## How do I clone a remote branch to my local?
+
+```
+git checkout -b local-branch-name origin/remote-branch-name
 ```
 ## License
 
