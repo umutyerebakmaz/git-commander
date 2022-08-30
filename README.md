@@ -68,10 +68,22 @@ git branch --merged | grep -v \* | xargs git branch -D
 git branch -d local_branch_name
 ```
 
-## How do I clone a remote branch to my local?
+## How to I clone a remote branch to my local?
 
 ```
 git checkout -b local-branch-name origin/remote-branch-name
+```
+
+## Git fetch Remote Branch
+
+```
+$ git branch -r
+origin/HEAD -> origin/master
+origin/1132-umuts-branch
+origin/main
+
+$ git fetch origin 1132-umut-branch
+$ git checkout 1132-umut-branch
 ```
 ## License
 
