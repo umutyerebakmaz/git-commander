@@ -78,7 +78,7 @@ git checkout -b local-branch-name origin/remote-branch-name
 
 ```
 $ git branch -r
-origin/HEAD -> origin/master
+origin/HEAD -> origin/main
 origin/1132-umuts-branch
 origin/main
 
