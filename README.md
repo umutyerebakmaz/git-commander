@@ -85,6 +85,20 @@ origin/main
 $ git fetch origin 1132-umut-branch
 $ git checkout 1132-umut-branch
 ```
+
+## Amending the most recent commit message
+
+
+```
+git commit --amend 
+```
+
+will open your editor, allowing you to change the commit message of the most recent commit. Additionally, you can set the commit message directly in the command line with:
+
+```
+git commit --amend -m "New commit message"
+```
+
 ## License
 
 The MIT License (MIT). Please see [License File](https://github.com/umutyerebakmaz/git-commander/blob/main/LICENCE) for more information.
